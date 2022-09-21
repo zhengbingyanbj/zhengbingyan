@@ -1,3 +1,4 @@
+![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=1000&height=400)](https://github.com/zhengbingyanbj)
 
 <h1 align="center">I'm zhengbingyan</h1>
